@@ -1,5 +1,6 @@
-package com.example.demo2.service;
+package com.example.demo1.application2.service;
 
+import com.example.demo2.service.Common;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
